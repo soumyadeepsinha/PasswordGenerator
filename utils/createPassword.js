@@ -1,6 +1,6 @@
 const alpha = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 const nums = '0123456789'
-const symbols = '!@#$%^&*_-+='
+const symbols = '!@#$%*_-+='
 
 const createPassword = (length = 8, hashNumbers = true, hashSymbols = true) => {
   let chars = alpha
