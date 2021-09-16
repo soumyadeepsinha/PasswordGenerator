@@ -1,0 +1,23 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "Password Generator tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "simple",
+    "password",
+    "generator"
+  ],
+  "author": "Soumyadeep Sinha",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.2.0"
+  }
+}
